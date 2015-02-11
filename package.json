@@ -1,0 +1,18 @@
+{
+  "name": "angular-app",
+  "version": "1.0.0",
+  "description": "This is my first angular app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RemiVR/Angular-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemiVR/Angular-app/issues"
+  },
+  "homepage": "https://github.com/RemiVR/Angular-app"
+}

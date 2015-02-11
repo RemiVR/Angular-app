@@ -1,0 +1,17 @@
+{
+  "name": "angular-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/RemiVR/Angular-app",
+  "authors": [
+    "RemiVR <remi.vr5@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
